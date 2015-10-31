@@ -1,4 +1,4 @@
-# Operations    Query1       Query2       Query3      Query4 
+# Operations    query1       query2       query3      query4 
 1k              15.5s        15s          20s         25s        
 5k              15.5s        27.5s        57.5s       85s
 10k             20.5s        30s          290s        300s
